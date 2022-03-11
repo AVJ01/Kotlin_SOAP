@@ -1,0 +1,2 @@
+include ':app', ':ksoap2-3.6.1-with-dependencies'
+rootProject.name='P1Parcial2_Kotlin_SOAP'
